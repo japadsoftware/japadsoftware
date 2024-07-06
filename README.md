@@ -13,23 +13,4 @@
 
 ### About Me
 
-I am a passionate software engineer with experience in developing full-stack applications. I enjoy learning new technologies and continuously improving my skills. I love connecting with different people and collaborating on exciting projects.
-
-### Technologies I Work With
-
-```javascript
-const japadsoftware = {
-  technologies: {
-    frontEnd: {
-      js: ["Angular", "React"],
-      css: ["Materialize", "Bootstrap", "Tailwind"]
-    },
-    backEnd: {
-      java: ["Spring", "JavaFX", "JSF"],
-      js: ["Node", "Express"]
-    },
-    mobile: ["Android", "Flutter", "Ionic"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB"]
-  },
-  tools: ["Git", "Docker", "Jenkins", "AWS"]
-};
+I am a passionate software engineer with experience in developing full-stack applications. I enjoy learning new technologies and continuously improving my skills. I love connecting with different people and collaborating on exciting projects
